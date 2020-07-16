@@ -28,7 +28,7 @@ class BankAccount
   end
   
   def close_account
-    BankAccount = nil
+
   end
 
 end
