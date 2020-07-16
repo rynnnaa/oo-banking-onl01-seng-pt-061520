@@ -9,3 +9,4 @@ class Transfer
     @status = status
     @amount = amount
   end
+end
