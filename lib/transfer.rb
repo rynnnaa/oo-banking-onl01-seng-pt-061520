@@ -13,4 +13,7 @@ class Transfer
   def valid?
     sender.valid? == receiver.valid? ? true : false
   end
+  
+  def execute_transcation(sender, receiver)
+  end
 end
