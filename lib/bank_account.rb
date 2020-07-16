@@ -11,7 +11,7 @@ class BankAccount
   end
   
   def deposit(money)
-    money + balance = balance
+    money.to_i + balance = balance
   end
 
 end
