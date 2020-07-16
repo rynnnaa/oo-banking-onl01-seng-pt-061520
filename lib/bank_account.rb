@@ -6,6 +6,7 @@ class BankAccount
     @account = account
     @name = name
     @balance = 1000
+    @status = "open"
   end
 
 end
