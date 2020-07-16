@@ -12,7 +12,6 @@ class BankAccount
   
   def deposit(money)
     money += balance
-    
   end
 
 end
